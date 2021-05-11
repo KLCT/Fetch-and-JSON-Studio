@@ -1,7 +1,7 @@
 .avatar {
     border-radius: 50%;
     height: 100px;
-    float:right;
+    float: right;
 }
 
 .astronaut {
@@ -14,3 +14,7 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+/* #container{
+    background-color: blue;
+} */
